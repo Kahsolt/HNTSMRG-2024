@@ -1,0 +1,25 @@
+# meta
+.vscode/
+__pycache__/
+
+# data
+data/
+
+# thesis
+thesis/*
+!thesis/*.cmd
+
+# repo
+repo/*
+!repo/*.cmd
+
+# ref
+ref/
+
+# generated
+gen/
+out/
+
+# logs
+log/
+*.log
