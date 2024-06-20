@@ -1,0 +1,3 @@
+[submodule "nnUNet"]
+	path = repo/nnUNet
+	url = https://github.com/Kahsolt/nnUNet

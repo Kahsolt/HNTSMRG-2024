@@ -11,3 +11,6 @@ wget -nc https://arxiv.org/pdf/1809.10486.pdf
 
 REM (2023) MedNeXt: Transformer-driven Scaling of ConvNets for Medical Image Segmentation
 wget -nc https://arxiv.org/pdf/2303.09975.pdf
+
+REM (2024) nnU-Net Revisited: A Call for Rigorous Validation in 3D Medical Image Segmentation
+wget -nc https://arxiv.org/pdf/2404.09556.pdf

@@ -4,6 +4,7 @@ __pycache__/
 
 # data
 data/
+data_nnUNet/
 
 # thesis
 thesis/*
@@ -11,6 +12,7 @@ thesis/*
 
 # repo
 repo/*
+!repo/nnUNet
 !repo/*.cmd
 
 # ref
