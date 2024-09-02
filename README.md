@@ -4,6 +4,8 @@
 
 ----
 
+⚠ 弃赛了，本仓库请勿使用！
+
 Contest page: [https://hntsmrg24.grand-challenge.org/](https://hntsmrg24.grand-challenge.org/)  
 
 
